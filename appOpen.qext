@@ -1,0 +1,9 @@
+{
+	"name": "appOpen",
+	"description": "Provides a dropdown list for opening apps in a Qlik Sense Application.",
+	"icon": "list",
+	"type": "visualization",
+	"version": 1,
+	"preview": "listbox",
+	"author": ""
+}
